@@ -12,7 +12,7 @@
 * [Contact Information](#contact-information)
 
 ## Introduction:
-<div align="justify">This notebook contains a notebook of building a custom Named Entity Recognition (NER) system for extracting diseases and their probable treatments from medical text data. A health tech company called "BeHealthy" wants a predictive model that can correctly detect diseases and treatments mentioned in patient interactions with doctors or during the process of ordering medicines online. The task involves extracting disease names and their corresponding treatments from medical text data using a Conditional Random Field (CRF) model.</div>
+<div align="justify">This repository contains a notebook of building a custom Named Entity Recognition (NER) system for extracting diseases and their probable treatments from medical text data. A health tech company called "BeHealthy" wants a predictive model that can correctly detect diseases and treatments mentioned in patient interactions with doctors or during the process of ordering medicines online. The task involves extracting disease names and their corresponding treatments from medical text data using a Conditional Random Field (CRF) model.</div>
 
 ## Problem Statement: 
 <div align="justify">Understanding medical text data can be difficult for individuals without a medical background. Extracting valuable facts or information, such as diseases and treatments, from such datasets is important for various applications. In this project, we aim to create a custom Named Entity Recognition (NER) system to identify diseases and their probable treatments from provided medical text data.</div>
